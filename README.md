@@ -43,7 +43,7 @@ There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CL
 
 ## Resources
 
-Best resource is to practice yourself what you learin in the portal, especially in the area of networking, virtual machines and active directory. Most of the resources listed below do not go deep enough into details and only way to understand the niuances of each topic is to practice it until "aha" moment is achieved.
+Best resource is to practice in the portal, especially in the area of networking, virtual machines and active directory. Most of the resources listed below do not go deep enough into details and only way to understand the niuances of each topic is to practice it until "aha" moment is achieved.
 
 1. [Plularsight Courses](https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300)
 

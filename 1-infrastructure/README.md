@@ -180,6 +180,26 @@
 
   - [Backup Azure VM](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
 
+## Create connectivity between virtual networks
+
+- [ ] __create and configure VNET peering__
+
+  - [VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
+
+- [ ] __create and configure VNET to VNET connections__
+
+  - [VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
+
+  - [Point to Site connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal)
+
+- [ ] __verify virtual network connectivity__
+
+  - [Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
+
+- [ ] __create virtual network gateway__
+
+  - [Create Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-portal)
+
 ## Implement and manage virtual networking
 
 [Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://9922213a-f2ea-4ee4-a1b0-84330541e15d/)
@@ -207,26 +227,6 @@
 - [ ] __create and configure Application Security Groups__
 
   - [Application Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
-
-## Create connectivity between virtual networks
-
-- [ ] __create and configure VNET peering__
-
-  - [VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
-
-- [ ] __create and configure VNET to VNET connections__
-
-  - [VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
-
-  - [Point to Site connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal)
-
-- [ ] __verify virtual network connectivity__
-
-  - [Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
-
-- [ ] __create virtual network gateway__
-
-  - [Create Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-portal)
 
 ## Manage Azure Active Directory (AD)
 
@@ -279,3 +279,13 @@
 - [ ] __troubleshoot password sync and writeback__
 
   - [Password writeback](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-writeback)
+
+## Implement solutions that use virtual machines (VM)
+
+- [ ] __provision VMs__
+
+- [ ] __create Azure Resource Manager templates__
+
+- [ ] __configure Azure Disk Encryption for VMs__
+
+- [ ] __implement Azure Backup for VMs__

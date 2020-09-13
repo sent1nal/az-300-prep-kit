@@ -12,12 +12,6 @@
 
   - [Documentaiton](https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview)
 
-- [ ] __backup and restore data__
-
-  - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/backup-restore-azure-sql/index)
-
-  - [Documentaiton](https://docs.microsoft.com/en-us/azure/backup/backup-architecture)
-
 ## Configure serverless computing
 
 - [ ] __create and manage objects__

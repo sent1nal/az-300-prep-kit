@@ -284,8 +284,16 @@
 
 - [ ] __provision VMs__
 
+  - TODO: Add Link
+
 - [ ] __create Azure Resource Manager templates__
+
+  - TODO: Add Link
 
 - [ ] __configure Azure Disk Encryption for VMs__
 
+  - TODO: Add Link
+
 - [ ] __implement Azure Backup for VMs__
+
+  - TODO: Add Link
